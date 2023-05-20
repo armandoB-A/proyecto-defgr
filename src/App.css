@@ -36,3 +36,42 @@
     transform: rotate(360deg);
   }
 }
+.pink-background {
+  background-color: pink;
+}
+body {
+  #background-color: #FADCEB;
+
+  background-color: #fef2fc;
+}
+.card {
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  background-color: #fff;
+}
+
+.card-title {
+  font-size: 24px;
+  margin-bottom: 16px;
+}
+
+.card-body {
+  padding: 16px;
+}
+
+.card-text {
+  margin-bottom: 8px;
+}
+.titulo{text-align: center}
+
+.imagen{
+  width: 70px;
+}
+.boton1{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.botong{
+  margin-bottom: 20px;
+}
